@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Sosina!
 
-<!--
-**Sosina47/Sosina47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student | 💻 Passionate about problem-solving and building efficient solutions  
+🌱 Currently learning Data Structures and Algorithms with Python  
+🚀 I love working on real-world projects and collaborating with others  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Languages: C++, Python, HTML, CSS, JavaScript
+- Tools: Git, VS Code, Figma, React
+- Databases: MySQL, SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Sosina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sosina47&show_icons=true&theme=radical)
+
+## 📫 Connect with me
+- 💼 [LinkedIn](https://linkedin.com/in/sosina-girmay-739486332)
+- 🧠 [LeetCode](https://leetcode.com/sosina_girmay)
+- 🐦 Telegram: [@yourusername](https://t.me/sosina_girmay)
