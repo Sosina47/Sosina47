@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Sosina!
 
-💻 Software Engineering Student and passionate about problem-solving and building efficient solutions  
-🌱 Currently learning Data Structures and Algorithms with Python  
-🚀 I love working on real-world projects and collaborating with others  
+💻 Software Engineering Student and eager to learn new technologies and contribute to impactful solutions.
 
 ## 🔧 Skills
 - Languages: C++, Python, HTML, CSS, JavaScript
 - Tools: Git, GitHub, VS Code
 - Databases: MySQL, PostgreSQL
 
+## 🌱 I'm learning:
+- Data Structure and Algorithm with Python
+- Frontend development(JavaScript, React)
+
 ## 📫 How to contact me?
 - Email: Sosinagirmay15@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/sosina-girmay-739486332)
-- 🧠 [LeetCode](https://leetcode.com/sosina_girmay)
-- 🐦 Telegram: [@sosina_girmay](https://t.me/sosina_girmay)
+- Linkedin: [Sosina Girmay](https://linkedin.com/in/sosina-girmay-739486332)
+- Telegram: [@sosina_girmay](https://t.me/sosina_girmay)
