@@ -4,12 +4,12 @@
 
 ## 🔧 Skills
 - Languages: C++, Python, HTML, CSS, JavaScript
-- Tools: Git, GitHub, VS Code
+- Tools: Git, GitHub, Visual Studio Code
 - Databases: MySQL, PostgreSQL
 
 ## 🌱 I'm learning:
 - Data Structure and Algorithm with Python
-- Frontend development(JavaScript, React)
+- Frontend development (JavaScript, React)
 
 ## 📫 How to contact me?
 - Email: Sosinagirmay15@gmail.com
