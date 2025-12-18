@@ -10,6 +10,7 @@
 ## 🌱 I'm learning:
 - Data Structure and Algorithm with Python
 - Frontend development (JavaScript, React)
+- Backend development (Django)
 
 ## 📫 How to contact me?
 - Email: Sosinagirmay15@gmail.com
