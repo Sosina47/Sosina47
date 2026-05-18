@@ -3,7 +3,7 @@
 💻 Software Engineering Student and eager to learn new technologies and contribute to impactful solutions.
 
 ## 🔧 Skills
-- Languages: C++, Python, HTML, CSS, JavaScript
+- Languages: C++, Python, HTML, CSS, JavaScript, Java
 - Tools: Git, GitHub, Visual Studio Code
 - Databases: MySQL, PostgreSQL
 
