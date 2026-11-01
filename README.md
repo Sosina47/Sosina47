@@ -42,7 +42,7 @@ React, Express.js, Django, PostgreSQL, MySQL, MongoDB, git, GitHub, Docker, VS C
 
 - 📧 Email: [Sosinagirmay15@gmail.com](mailto\:Sosinagirmay15@gmail.com)
 - 💼 LinkedIn: [Sosina Girmay](https://linkedin.com/in/sosina-girmay-739486332)
-- ✈️ Telegram: [@sosina](https://t.me/sosina_girmay)47
+- ✈️ Telegram: [@sosina47](https://t.me/sosina47)
 
 ---
 
