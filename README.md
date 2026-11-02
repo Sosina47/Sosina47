@@ -68,12 +68,12 @@ My main interests include:
 
 ## 🚀 Featured Projects
 
-### 🧪 HomeSync
+### 🏠 HomeSync
 A condominium management platform designed to simplify communication, coordination, and access to community services. It brings important condominium activities into one place, including Iddir and Ekub management, lost and found services, committee coordination, and other community-related activities, making it easier for residents to stay informed and connected.
 
 **Tech stack:**  React, TypeScript, Express.js.
 
-### 🏗️ Distributed Clearance System
+### 🏛️ Distributed Clearance System
 A university clearance management system that digitizes and streamlines the student clearance process, allowing students to complete their clearance online without physically visiting multiple offices. It connects different university departments, including dormitories, registrars, finance offices, and other administrative departments, enabling officers to review and approve student clearance digitally instead of relying on manually circulated paperwork.
 
 **Tech stack:** Java, JavaFX, MySQL.
