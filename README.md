@@ -96,8 +96,8 @@ My GitHub contribution graph is available directly on my profile:
 
 ## 🧠 Competitive Programming
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge)](https://leetcode.com/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge)](https://leetcode.com/u/Sosina_Girmay/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/Sosina_Girmay)
 
 **800+ problems solved across LeetCode and Codeforces.**
 
@@ -107,7 +107,7 @@ My GitHub contribution graph is available directly on my profile:
 
 - 📧 Email: [Sosinagirmay15@gmail.com](mailto:Sosinagirmay15@gmail.com)
 - 💼 LinkedIn: [Sosina Girmay](https://linkedin.com/in/sosina-girmay-739486332)
-- 💬 Telegram: [@sosina_girmay](https://t.me/sosina_girmay)
+- 💬 Telegram: [@sosina47](https://t.me/sosina47)
 
 ---
 
