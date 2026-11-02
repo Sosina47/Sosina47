@@ -37,6 +37,7 @@ My main interests include:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 
 ### 🎨 Frontend
 
@@ -67,12 +68,15 @@ My main interests include:
 
 ## 🚀 Featured Projects
 
-### 🧪 ASTRO Quizzes
-An Ethiopian exam preparation platform built to help students prepare for exams, featuring creator and student roles, wallet functionality, and device restrictions.
+### 🧪 HomeSync
+frontend-focused application built with a modern, responsive interface, using a full-stack architecture to support its functionality.
 
-**Tech stack:** PostgreSQL, Express.js, React, Node.js, Docker.
+**Tech stack:**  React, TypeScript, Express.js.
 
-### 🏗️ Stokari
+### 🏗️ Distributed Clearance System
+A software project designed to digitize and streamline the clearance process, helping manage clearance requests and related workflows.
+
+Tech stack: Details to be added.
 A backend development project focused on building a structured Django application with database integrity and backend protections.
 
 **Tech stack:** Python, Django, PostgreSQL.
