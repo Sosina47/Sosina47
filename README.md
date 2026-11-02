@@ -84,15 +84,6 @@ A practical AI project that searches FAQs based on semantic similarity rather th
 
 ---
 
-## 📈 GitHub Stats
-
-<!-- GitHub statistics cards can be added here after verifying a reliable provider. -->
-
-My GitHub contribution graph is available directly on my profile:
-
-[View my GitHub Contributions](https://github.com/Sosina47)
-
----
 
 ## 🧠 Competitive Programming
 
@@ -113,6 +104,6 @@ My GitHub contribution graph is available directly on my profile:
 
 <div align="center">
 
-### 💡 "Always learning. Always building. Always improving."
+### "Always learning. Always building. Always improving."
 
 </div>
