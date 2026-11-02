@@ -69,17 +69,14 @@ My main interests include:
 ## 🚀 Featured Projects
 
 ### 🧪 HomeSync
-frontend-focused application built with a modern, responsive interface, using a full-stack architecture to support its functionality.
+A condominium management platform designed to simplify communication, coordination, and access to community services. It brings important condominium activities into one place, including Iddir and Ekub management, lost and found services, committee coordination, and other community-related activities, making it easier for residents to stay informed and connected.
 
 **Tech stack:**  React, TypeScript, Express.js.
 
 ### 🏗️ Distributed Clearance System
-A software project designed to digitize and streamline the clearance process, helping manage clearance requests and related workflows.
+A university clearance management system that digitizes and streamlines the student clearance process, allowing students to complete their clearance online without physically visiting multiple offices. It connects different university departments, including dormitories, registrars, finance offices, and other administrative departments, enabling officers to review and approve student clearance digitally instead of relying on manually circulated paperwork.
 
-Tech stack: Details to be added.
-A backend development project focused on building a structured Django application with database integrity and backend protections.
-
-**Tech stack:** Python, Django, PostgreSQL.
+**Tech stack:** Java, JavaFX, MySQL.
 
 ### 🤖 Mini Semantic Search
 A practical AI project that searches FAQs based on semantic similarity rather than exact keyword matching.
