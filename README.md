@@ -78,7 +78,7 @@ A university clearance management system that digitizes and streamlines the stud
 
 **Tech stack:** Java, JavaFX, MySQL.
 
-### 🤖 ChatApp
+### 💬 ChatApp
 A network-based desktop chat application that enables multiple users to communicate with each other in real time. It provides a messaging interface for connecting users and exchanging messages over a network.
 
 **Tech stack:** Java
