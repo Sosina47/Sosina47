@@ -100,7 +100,8 @@ A network-based desktop chat application that enables multiple users to communic
 - 📧 Email: [Sosinagirmay15@gmail.com](mailto:Sosinagirmay15@gmail.com)
 - 💼 LinkedIn: [Sosina Girmay](https://linkedin.com/in/sosina-girmay-739486332)
 - 💬 Telegram: [@sosina47](https://t.me/sosina47)
-
+- 📞 Phone: [+251 900 213 178](tel:+251900213178)
+  
 ---
 
 <div align="center">
