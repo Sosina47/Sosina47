@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sosina Girmay!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+Sosina+Girmay+🚀;Software+Engineering+Student;Competitive+Programmer;AI+%2F+ML+Enthusiast;Always+Learning+and+Building!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+Sosina+Girmay+🚀;Software+Engineering+Student;Competitive+Programmer;AI+%2F+ML+Enthusiast)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sosina47&color=ff69b4)](https://github.com/Sosina47)
 
@@ -104,6 +104,6 @@ A practical AI project that searches FAQs based on semantic similarity rather th
 
 <div align="center">
 
-### "Always learning. Always building. Always improving."
+### "Learning today, building tomorrow."
 
 </div>
