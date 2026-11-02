@@ -78,10 +78,10 @@ A university clearance management system that digitizes and streamlines the stud
 
 **Tech stack:** Java, JavaFX, MySQL.
 
-### 🤖 Mini Semantic Search
-A practical AI project that searches FAQs based on semantic similarity rather than exact keyword matching.
+### 🤖 ChatApp
+A network-based desktop chat application that enables multiple users to communicate with each other in real time. It provides a messaging interface for connecting users and exchanging messages over a network.
 
-**Tech stack:** Python, Pandas, Sentence Transformers, ChromaDB.
+**Tech stack:** Java
 
 ---
 
