@@ -27,6 +27,10 @@ My main interests include:
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sosina47&show_icons=false&theme=transparent" />
+</p>
+
 ## ✨ Core Technologies
 
 ### 🚀 Languages
