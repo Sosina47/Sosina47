@@ -22,7 +22,7 @@ My main interests include:
 - 🌐 Frontend development with **React.js, JavaScript, and TypeScript**.
 - ⚙️ Backend development with **Django, Express.js, and Node.js**.
 - 🗄️ Database development with **PostgreSQL, MySQL, and MongoDB**.
-- 🤖 Exploring **AI/ML, semantic search, embeddings, and vector databases**.
+- 🤖 Exploring **AI/ML**.
 - 🐳 Experience working with **Git, GitHub, and Docker**.
 
 ---
